@@ -1,2 +1,2 @@
 # ProjetoHTML1
-Criando pela 10º vez um repositorio para guardar esses codigos
+Projeto de aprendizado de HTML 5 CSS 3
